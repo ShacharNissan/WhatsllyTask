@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: שחר
+Build-Jdk: 14.0.2
+Implementation-Title: WhatsllyTask
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: shachar.nissan.com
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/WhatsllyTask
+Created-By: Maven Integration for Eclipse
+
